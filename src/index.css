@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body {
+    background-color: #ffffff !important; /* Fondo blanco */
+    color: #111827 !important; /* text-gray-900 */
+    @apply min-h-screen;
+  }
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
