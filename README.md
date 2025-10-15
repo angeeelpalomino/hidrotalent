@@ -61,13 +61,7 @@ Además, no cuentan con **herramientas digitales accesibles y seguras** que esta
 
 ---
 
-##  Equipo de Desarrollo
-| Nombre | Rol | Responsabilidades |
-|--------|-----|------------------|
-| **Baruc Azael Ramírez Romo** | Project Manager & Backend Dev | Coordinación, lógica del sistema, integración con Open Payments |
-| **Roberto Emiliano González Velázquez** | Frontend Dev | Interfaz web/móvil con React + Tailwind + TS |
-| **Hanna Fernanda Vázquez Rosales** | QA / Tester | Validación de operaciones, pruebas de usabilidad, documentación |
-| **Olga Fernanda Hernández Gómez** | QA / Tester + Documentación | Pruebas de confiabilidad, README y demo en video |
+
 
 
 ---
